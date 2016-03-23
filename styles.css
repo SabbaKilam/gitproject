@@ -33,6 +33,10 @@
 .banner-top{
     top:0;
 }
+
+.banner-bottom{
+    bottom:0;
+}
 #menu{
     float: left;
     padding-left:10px;
